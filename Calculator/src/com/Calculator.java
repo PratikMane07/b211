@@ -31,5 +31,12 @@ public class Calculator {
 	{
 		
 	}
+	
+	public void m3()
+	{
+		
+	}
+	
+	
 
 }
