@@ -12,5 +12,9 @@ public class Calculator {
 		System.out.println(10 + 20);
 	}
 	
+	public void multiplication()
+	{
+		System.out.println(10 * 20);
+	}
 
 }
