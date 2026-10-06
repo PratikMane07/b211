@@ -17,4 +17,9 @@ public class Calculator {
 		System.out.println(10 * 20);
 	}
 
+	public void division()
+	{
+		System.out.println(100/10);
+	}
+
 }
