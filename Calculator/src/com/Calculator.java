@@ -22,4 +22,9 @@ public class Calculator {
 		
 	}
 
+	public void division()
+	{
+		System.out.println(100/10);
+	}
+
 }
