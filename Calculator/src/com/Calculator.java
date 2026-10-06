@@ -27,4 +27,9 @@ public class Calculator {
 		System.out.println(100/10);
 	}
 
+	public void m2()
+	{
+		
+	}
+
 }
